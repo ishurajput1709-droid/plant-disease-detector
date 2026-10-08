@@ -1,0 +1,6 @@
+venv/
+env/
+__pycache__/
+*.pyc
+weights/
+plants_disease_classifier.h5
